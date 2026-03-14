@@ -14,3 +14,77 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there 👋 I'm Sneha
+
+🎓 Computer Science Engineering Student  
+💻 Backend & Full-Stack Developer  
+⚡ Passionate about building scalable APIs and modern web applications  
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech CSE Student at Dayananda Sagar University
+- 💻 Interested in Backend Development & Software Engineering
+- ⚡ Currently learning Node.js, Express.js and System Design
+- 🔎 Actively looking for Software Engineering / Backend Internships
+- 🌱 Always exploring new technologies and improving problem solving skills
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+- JavaScript
+- Python
+- HTML
+- CSS
+
+**Frontend**
+- React.js
+- Tailwind CSS
+- Next.js (Learning)
+
+**Backend**
+- Node.js
+- Express.js
+- REST APIs
+
+**Databases**
+- MongoDB
+- MySQL
+
+**Tools**
+- Git & GitHub
+- Postman
+- VS Code
+- Firebase
+- Vercel
+- Render
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Website UX Reviewer
+AI-powered tool that analyzes website UX using web scraping and LLM.
+
+Tech Stack:
+React.js • Node.js • MongoDB • Tailwind CSS • OpenAI API
+
+---
+
+## 📊 GitHub Stats
+
+![Sneha's GitHub stats](https://github-readme-stats.vercel.app/api?username=snehaIlager&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: snehailager76@gmail.com  
+🌐 Portfolio: https://omnimise.com/portfolio/snehailager767194
+
+---
+
+⭐ Always open to collaboration and learning new technologies.
