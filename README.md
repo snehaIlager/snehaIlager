@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **snehaIlager/snehaIlager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -74,10 +74,9 @@ React.js • Node.js • MongoDB • Tailwind CSS • OpenAI API
 
 ---
 
-## 📊 GitHub Stats
+## 💻 Most Used Languages
 
-![Sneha's GitHub stats](https://github-readme-stats.vercel.app/api?username=snehaIlager&show_icons=true&theme=tokyonight)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snehaIlager&layout=compact&theme=tokyonight)
 ---
 
 ## 📫 Connect With Me
